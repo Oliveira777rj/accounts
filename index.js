@@ -2,7 +2,7 @@
 const chalk = require('chalk')
 const inquirer = require("inquirer");
 
-// moduloes internos
+// modulos internos
 const fs = require('fs')
 
 operation()
